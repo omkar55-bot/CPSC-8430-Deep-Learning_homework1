@@ -71,7 +71,3 @@ Open `Hw1-1.ipynb` in your browser.
 
 
 
-
-=======
-# CPSC-8430-Deep-Learning_homework1
->>>>>>> 1c105e533b7dbf2d52fe06ce96214305d3e7d992
