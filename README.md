@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 Deep Learning Homework - Conda Environment Setup
 
 ---
