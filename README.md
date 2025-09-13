@@ -1,5 +1,5 @@
 
-# 🧠 Deep Learning Homework - Conda Environment Setup
+# 🧠 Deep Learning Homework 1 - Conda Environment Setup
 
 ---
 
